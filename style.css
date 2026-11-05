@@ -75,12 +75,12 @@ button.green {
 
     border: 0.1em solid black;
     border-radius: 0.5rem;
+}
 
-    > #result-img {
-        height: 100%;
-        width: auto;
-        z-index: -1;
-    }
+#result-box-img > #result-img {
+    height: 100%;
+    width: auto;
+    z-index: -1;
 }
 
 
