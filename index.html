@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>IPA Sound Practice</title>
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap" rel="stylesheet">
+</head>
+<body class="flex-column flex-gap">
+    <h1>IPA Sound Practice</h1>
+    <div id="result-box" class="flex-column flex-gap-sm">
+        <div id="result-box-img">
+            <img id="result-img" class="hide">
+        </div>
+        <div id="result-box-name" class="flex-row">
+            <p id="result-name"></p>
+        </div>
+    </div>
+    <div></div>
+    <div></div>
+    <div id="buttons" class="flex-column flex-gap">
+        <button onclick="playSfx()">Play Sound</button>
+        <button id="answer-toggle-button" onclick="toggleAnswer()">Show Answer</button>
+        <div class="flex-row flex-gap">
+            <button class="red" onclick="nextQuestion(); playFailureSfx()">Didn't get it ):</button>
+            <button class="green" onclick="nextQuestion(); playSuccessSfx()">Got it!</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

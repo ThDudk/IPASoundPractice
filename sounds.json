@@ -1,0 +1,567 @@
+[
+  {
+    "formatted_name": "Alveolar-lateral Click",
+    "audio_file": "alveolar-lateral_click.mp3",
+    "image": "alveolar-lateral_click.png"
+  },
+  {
+    "formatted_name": "Bilabial Click",
+    "audio_file": "bilabial_click.mp3",
+    "image": "bilabial_click.png"
+  },
+  {
+    "formatted_name": "Close Back Rounded",
+    "audio_file": "close_back_rounded.mp3",
+    "image": "close_back_rounded.png"
+  },
+  {
+    "formatted_name": "Close Back Unrounded",
+    "audio_file": "close_back_unrounded.mp3",
+    "image": "close_back_unrounded.png"
+  },
+  {
+    "formatted_name": "Close Central Rounded",
+    "audio_file": "close_central_rounded.mp3",
+    "image": "close_central_rounded.png"
+  },
+  {
+    "formatted_name": "Close Central Unrounded",
+    "audio_file": "close_central_unrounded.mp3",
+    "image": "close_central_unrounded.png"
+  },
+  {
+    "formatted_name": "Close Front Rounded",
+    "audio_file": "close_front_rounded.mp3",
+    "image": "close_front_rounded.png"
+  },
+  {
+    "formatted_name": "Close Front Unrounded",
+    "audio_file": "close_front_unrounded.mp3",
+    "image": "close_front_unrounded.png"
+  },
+  {
+    "formatted_name": "Close-mid Back Rounded",
+    "audio_file": "close-mid_back_rounded.mp3",
+    "image": "close-mid_back_rounded.png"
+  },
+  {
+    "formatted_name": "Close-mid Back Unrounded",
+    "audio_file": "close-mid_back_unrounded.mp3",
+    "image": "close-mid_back_unrounded.png"
+  },
+  {
+    "formatted_name": "Close-mid Central Rounded",
+    "audio_file": "close-mid_central_rounded.mp3",
+    "image": "close-mid_central_rounded.png"
+  },
+  {
+    "formatted_name": "Close-mid Central Unrounded",
+    "audio_file": "close-mid_central_unrounded.mp3",
+    "image": "close-mid_central_unrounded.png"
+  },
+  {
+    "formatted_name": "Close-mid Front Rounded",
+    "audio_file": "close-mid_front_rounded.mp3",
+    "image": "close-mid_front_rounded.png"
+  },
+  {
+    "formatted_name": "Close-mid Front Unrounded",
+    "audio_file": "close-mid_front_unrounded.mp3",
+    "image": "close-mid_front_unrounded.png"
+  },
+  {
+    "formatted_name": "Dental Click",
+    "audio_file": "dental_click.mp3",
+    "image": "dental_click.png"
+  },
+  {
+    "formatted_name": "Epiglottal Plosive",
+    "audio_file": "epiglottal_plosive.mp3",
+    "image": "epiglottal_plosive.png"
+  },
+  {
+    "formatted_name": "Kp Affricate",
+    "audio_file": "kp_affricate.mp3",
+    "image": "kp_affricate.png"
+  },
+  {
+    "formatted_name": "Mid-central",
+    "audio_file": "mid-central.mp3",
+    "image": "mid-central.png"
+  },
+  {
+    "formatted_name": "Near-close Near-back Rounded",
+    "audio_file": "near-close_near-back_rounded.mp3",
+    "image": "near-close_near-back_rounded.png"
+  },
+  {
+    "formatted_name": "Near-close Near-front Rounded",
+    "audio_file": "near-close_near-front_rounded.mp3",
+    "image": "near-close_near-front_rounded.png"
+  },
+  {
+    "formatted_name": "Near-close Near-front Unrounded",
+    "audio_file": "near-close_near-front_unrounded.mp3",
+    "image": "near-close_near-front_unrounded.png"
+  },
+  {
+    "formatted_name": "Near-open Central",
+    "audio_file": "near-open_central.mp3",
+    "image": "near-open_central.png"
+  },
+  {
+    "formatted_name": "Near-open Front Unrounded",
+    "audio_file": "near-open_front_unrounded.mp3",
+    "image": "near-open_front_unrounded.png"
+  },
+  {
+    "formatted_name": "Open Back Rounded",
+    "audio_file": "open_back_rounded.mp3",
+    "image": "open_back_rounded.png"
+  },
+  {
+    "formatted_name": "Open Back Unrounded",
+    "audio_file": "open_back_unrounded.mp3",
+    "image": "open_back_unrounded.png"
+  },
+  {
+    "formatted_name": "Open Front Rounded",
+    "audio_file": "open_front_rounded.mp3",
+    "image": "open_front_rounded.png"
+  },
+  {
+    "formatted_name": "Open Front Unrounded",
+    "audio_file": "open_front_unrounded.mp3",
+    "image": "open_front_unrounded.png"
+  },
+  {
+    "formatted_name": "Open-mid Back Rounded",
+    "audio_file": "open-mid_back_rounded.mp3",
+    "image": "open-mid_back_rounded.png"
+  },
+  {
+    "formatted_name": "Open-mid Back Unrounded",
+    "audio_file": "open-mid_back_unrounded.mp3",
+    "image": "open-mid_back_unrounded.png"
+  },
+  {
+    "formatted_name": "Open-mid Central Rounded",
+    "audio_file": "open-mid_central_rounded.mp3",
+    "image": "open-mid_central_rounded.png"
+  },
+  {
+    "formatted_name": "Open-mid Central Unrounded",
+    "audio_file": "open-mid_central_unrounded.mp3",
+    "image": "open-mid_central_unrounded.png"
+  },
+  {
+    "formatted_name": "Open-mid Front Rounded",
+    "audio_file": "open-mid_front_rounded.mp3",
+    "image": "open-mid_front_rounded.png"
+  },
+  {
+    "formatted_name": "Open-mid Front Unrounded",
+    "audio_file": "open-mid_front_unrounded.mp3",
+    "image": "open-mid_front_unrounded.png"
+  },
+  {
+    "formatted_name": "Palatoalveolar Click",
+    "audio_file": "palatoalveolar_click.mp3",
+    "image": "palatoalveolar_click.png"
+  },
+  {
+    "formatted_name": "Postalveolar Click",
+    "audio_file": "postalveolar_click.mp3",
+    "image": "postalveolar_click.png"
+  },
+  {
+    "formatted_name": "Voiceless Postalveolar Velar Fricative",
+    "audio_file": "sim_VL_postalveolar_velar_fricative.mp3",
+    "image": "sim_VL_postalveolar_velar_fricative.png"
+  },
+  {
+    "formatted_name": "Voiceless Alveolar Affricate",
+    "audio_file": "ts_affricate.mp3",
+    "image": "ts_affricate.png"
+  },
+  {
+    "formatted_name": "Voiced Alveolar Approximant",
+    "audio_file": "V_alveolar_approximant.mp3",
+    "image": "V_alveolar_approximant.png"
+  },
+  {
+    "formatted_name": "Voiced Alveolar Fricative",
+    "audio_file": "V_alveolar_fricative.mp3",
+    "image": "V_alveolar_fricative.png"
+  },
+  {
+    "formatted_name": "Voiced Alveolar Lateral Flap",
+    "audio_file": "V_alveolar_lateral_flap.mp3",
+    "image": "V_alveolar_lateral_flap.png"
+  },
+  {
+    "formatted_name": "Voiced Alveolar Lateral Approximant",
+    "audio_file": "V_alveolar_lateral-approximant.mp3",
+    "image": "V_alveolar_lateral-approximant.png"
+  },
+  {
+    "formatted_name": "Voiced Alveolar Lateral Fricative",
+    "audio_file": "V_alveolar_lateral-fricative.mp3",
+    "image": "V_alveolar_lateral-fricative.png"
+  },
+  {
+    "formatted_name": "Voiced Alveolar Nasal",
+    "audio_file": "V_alveolar_nasal.mp3",
+    "image": "V_alveolar_nasal.png"
+  },
+  {
+    "formatted_name": "Voiced Alveolar Plosive",
+    "audio_file": "V_alveolar_plosive.mp3",
+    "image": "V_alveolar_plosive.png"
+  },
+  {
+    "formatted_name": "Voiced Alveolar Tap",
+    "audio_file": "V_alveolar_tap.mp3",
+    "image": "V_alveolar_tap.png"
+  },
+  {
+    "formatted_name": "Voiced Alveolar Trill",
+    "audio_file": "V_alveolar_trill.mp3",
+    "image": "V_alveolar_trill.png"
+  },
+  {
+    "formatted_name": "Voiced Alveolo-palatal Fricative",
+    "audio_file": "V_alveolo-palatal_fricative.mp3",
+    "image": "V_alveolo-palatal_fricative.png"
+  },
+  {
+    "formatted_name": "Voiced Bilabial Fricative",
+    "audio_file": "V_bilabial_fricative.mp3",
+    "image": "V_bilabial_fricative.png"
+  },
+  {
+    "formatted_name": "Voiced Bilabial Implosive",
+    "audio_file": "V_bilabial_implosive.mp3",
+    "image": "V_bilabial_implosive.png"
+  },
+  {
+    "formatted_name": "Voiced Bilabial Nasal",
+    "audio_file": "V_bilabial_nasal.mp3",
+    "image": "V_bilabial_nasal.png"
+  },
+  {
+    "formatted_name": "Voiced Bilabial Plosive",
+    "audio_file": "V_bilabial_plosive.mp3",
+    "image": "V_bilabial_plosive.png"
+  },
+  {
+    "formatted_name": "Voiced Bilabial Trill",
+    "audio_file": "V_bilabial_trill.mp3",
+    "image": "V_bilabial_trill.png"
+  },
+  {
+    "formatted_name": "Voiced Dental Fricative",
+    "audio_file": "V_dental_fricative.mp3",
+    "image": "V_dental_fricative.png"
+  },
+  {
+    "formatted_name": "Voiced Dental Implosive",
+    "audio_file": "V_dental_implosive.mp3",
+    "image": "V_dental_implosive.png"
+  },
+  {
+    "formatted_name": "Voiced Epiglottal Fricative",
+    "audio_file": "V_epiglottal_fricative.mp3",
+    "image": "V_epiglottal_fricative.png"
+  },
+  {
+    "formatted_name": "Voiced Glottal Fricative",
+    "audio_file": "V_glottal_fricative.mp3",
+    "image": "V_glottal_fricative.png"
+  },
+  {
+    "formatted_name": "Voiced Labial-palatal Approximant",
+    "audio_file": "V_labial-palatal_approximant.mp3",
+    "image": "V_labial-palatal_approximant.png"
+  },
+  {
+    "formatted_name": "Voiced Labial-velar Approximant",
+    "audio_file": "V_labial-velar_approximant.mp3",
+    "image": "V_labial-velar_approximant.png"
+  },
+  {
+    "formatted_name": "Voiced Labialdental Flap",
+    "audio_file": "V_labialdental_flap.mp3",
+    "image": "V_labialdental_flap.png"
+  },
+  {
+    "formatted_name": "Voiced Labiodental Approximant",
+    "audio_file": "V_labiodental_approximant.mp3",
+    "image": "V_labiodental_approximant.png"
+  },
+  {
+    "formatted_name": "Voiced Labiodental Fricative",
+    "audio_file": "V_labiodental_fricative.mp3",
+    "image": "V_labiodental_fricative.png"
+  },
+  {
+    "formatted_name": "Voiced Labiodental Nasal",
+    "audio_file": "V_labiodental_nasal.mp3",
+    "image": "V_labiodental_nasal.png"
+  },
+  {
+    "formatted_name": "Voiced Palatal Approximant",
+    "audio_file": "V_palatal_approximant.mp3",
+    "image": "V_palatal_approximant.png"
+  },
+  {
+    "formatted_name": "Voiced Palatal Fricative",
+    "audio_file": "V_palatal_fricative.mp3",
+    "image": "V_palatal_fricative.png"
+  },
+  {
+    "formatted_name": "Voiced Palatal Implosive",
+    "audio_file": "V_palatal_implosive.mp3",
+    "image": "V_palatal_implosive.png"
+  },
+  {
+    "formatted_name": "Voiced Palatal Lateral Approximant",
+    "audio_file": "V_palatal_lateral-approximant.mp3",
+    "image": "V_palatal_lateral-approximant.png"
+  },
+  {
+    "formatted_name": "Voiced Palatal Nasal",
+    "audio_file": "V_palatal_nasal.mp3",
+    "image": "V_palatal_nasal.png"
+  },
+  {
+    "formatted_name": "Voiced Palatal Plosive",
+    "audio_file": "V_palatal_plosive.mp3",
+    "image": "V_palatal_plosive.png"
+  },
+  {
+    "formatted_name": "Voiced Pharyngeal Fricative",
+    "audio_file": "V_pharyngeal_fricative.mp3",
+    "image": "V_pharyngeal_fricative.png"
+  },
+  {
+    "formatted_name": "Voiced Postalveolar Fricative",
+    "audio_file": "V_postalveolar_fricative.mp3",
+    "image": "V_postalveolar_fricative.png"
+  },
+  {
+    "formatted_name": "Voiced Retroflex Approximant",
+    "audio_file": "V_retroflex_approximant.mp3",
+    "image": "V_retroflex_approximant.png"
+  },
+  {
+    "formatted_name": "Voiced Retroflex Fricative",
+    "audio_file": "V_retroflex_fricative.mp3",
+    "image": "V_retroflex_fricative.png"
+  },
+  {
+    "formatted_name": "Voiced Retroflex Lateral Approximant",
+    "audio_file": "V_retroflex_lateral-approximant.mp3",
+    "image": "V_retroflex_lateral-approximant.png"
+  },
+  {
+    "formatted_name": "Voiced Retroflex Nasal",
+    "audio_file": "V_retroflex_nasal.mp3",
+    "image": "V_retroflex_nasal.png"
+  },
+  {
+    "formatted_name": "Voiced Retroflex Plosive",
+    "audio_file": "V_retroflex_plosive.mp3",
+    "image": "V_retroflex_plosive.png"
+  },
+  {
+    "formatted_name": "Voiced Retroflex Tap",
+    "audio_file": "V_retroflex_tap.mp3",
+    "image": "V_retroflex_tap.png"
+  },
+  {
+    "formatted_name": "Voiced Uvular Fricative",
+    "audio_file": "V_uvular_fricative.mp3",
+    "image": "V_uvular_fricative.png"
+  },
+  {
+    "formatted_name": "Voiced Uvular Implosive",
+    "audio_file": "V_uvular_implosive.mp3",
+    "image": "V_uvular_implosive.png"
+  },
+  {
+    "formatted_name": "Voiced Uvular Nasal",
+    "audio_file": "V_uvular_nasal.mp3",
+    "image": "V_uvular_nasal.png"
+  },
+  {
+    "formatted_name": "Voiced Uvular Plosive",
+    "audio_file": "V_uvular_plosive.mp3",
+    "image": "V_uvular_plosive.png"
+  },
+  {
+    "formatted_name": "Voiced Uvular Trill",
+    "audio_file": "V_uvular_trill.mp3",
+    "image": "V_uvular_trill.png"
+  },
+  {
+    "formatted_name": "Voiced Velar Approximant",
+    "audio_file": "V_velar_approximant.mp3",
+    "image": "V_velar_approximant.png"
+  },
+  {
+    "formatted_name": "Voiced Velar Fricative",
+    "audio_file": "V_velar_fricative.mp3",
+    "image": "V_velar_fricative.png"
+  },
+  {
+    "formatted_name": "Voiced Velar Implosive",
+    "audio_file": "V_velar_implosive.mp3",
+    "image": "V_velar_implosive.png"
+  },
+  {
+    "formatted_name": "Voiced Velar Lateral Approximant",
+    "audio_file": "V_velar_lateral-approximant.mp3",
+    "image": "V_velar_lateral-approximant.png"
+  },
+  {
+    "formatted_name": "Voiced Velar Nasal",
+    "audio_file": "V_velar_nasal.mp3",
+    "image": "V_velar_nasal.png"
+  },
+  {
+    "formatted_name": "Voiced Velar Plosive",
+    "audio_file": "V_velar_plosive.mp3",
+    "image": "V_velar_plosive.png"
+  },
+  {
+    "formatted_name": "Voiceless Alveolar Fricative",
+    "audio_file": "VL_alveolar_fricative.mp3",
+    "image": "VL_alveolar_fricative.png"
+  },
+  {
+    "formatted_name": "Voiceless Alveolar Lateral Fricative",
+    "audio_file": "VL_alveolar_lateral-fricative.mp3",
+    "image": "VL_alveolar_lateral-fricative.png"
+  },
+  {
+    "formatted_name": "Voiceless Alveolar Plosive",
+    "audio_file": "VL_alveolar_plosive.mp3",
+    "image": "VL_alveolar_plosive.png"
+  },
+  {
+    "formatted_name": "Voiceless Alveolar Fricative Ejective",
+    "audio_file": "VL_alveolar-fricative_ejective.mp3",
+    "image": "VL_alveolar-fricative_ejective.png"
+  },
+  {
+    "formatted_name": "Voiceless Alveolo-palatal Fricative",
+    "audio_file": "VL_alveolo-palatal_fricative.mp3",
+    "image": "VL_alveolo-palatal_fricative.png"
+  },
+  {
+    "formatted_name": "Voiceless Bilabial Ejective",
+    "audio_file": "VL_bilabial_ejective.mp3",
+    "image": "VL_bilabial_ejective.png"
+  },
+  {
+    "formatted_name": "Voiceless Bilabial Fricative",
+    "audio_file": "VL_bilabial_fricative.mp3",
+    "image": "VL_bilabial_fricative.png"
+  },
+  {
+    "formatted_name": "Voiceless Bilabial Plosive",
+    "audio_file": "VL_bilabial_plosive.mp3",
+    "image": "VL_bilabial_plosive.png"
+  },
+  {
+    "formatted_name": "Voiceless Dental Ejective",
+    "audio_file": "VL_dental_ejective.mp3",
+    "image": "VL_dental_ejective.png"
+  },
+  {
+    "formatted_name": "Voiceless Dental Fricative",
+    "audio_file": "VL_dental_fricative.mp3",
+    "image": "VL_dental_fricative.png"
+  },
+  {
+    "formatted_name": "Voiceless Epiglottal Fricative",
+    "audio_file": "VL_epiglottal_fricative.mp3",
+    "image": "VL_epiglottal_fricative.png"
+  },
+  {
+    "formatted_name": "Voiceless Glottal Fricative",
+    "audio_file": "VL_glottal_fricative.mp3",
+    "image": "VL_glottal_fricative.png"
+  },
+  {
+    "formatted_name": "Voiceless Glottal Plosive",
+    "audio_file": "VL_glottal_plosive.mp3",
+    "image": "VL_glottal_plosive.png"
+  },
+  {
+    "formatted_name": "Voiceless Labial-velar Fricative",
+    "audio_file": "VL_labial-velar_fricative.mp3",
+    "image": "VL_labial-velar_fricative.png"
+  },
+  {
+    "formatted_name": "Voiceless Labiodental Fricative",
+    "audio_file": "VL_labiodental_fricative.mp3",
+    "image": "VL_labiodental_fricative.png"
+  },
+  {
+    "formatted_name": "Voiceless Palatal Fricative",
+    "audio_file": "VL_palatal_fricative.mp3",
+    "image": "VL_palatal_fricative.png"
+  },
+  {
+    "formatted_name": "Voiceless Palatal Plosive",
+    "audio_file": "VL_palatal_plosive.mp3",
+    "image": "VL_palatal_plosive.png"
+  },
+  {
+    "formatted_name": "Voiceless Pharyngeal Fricative",
+    "audio_file": "VL_pharyngeal_fricative.mp3",
+    "image": "VL_pharyngeal_fricative.png"
+  },
+  {
+    "formatted_name": "Voiceless Postalveolar Fricative",
+    "audio_file": "VL_postalveolar_fricative.mp3",
+    "image": "VL_postalveolar_fricative.png"
+  },
+  {
+    "formatted_name": "Voiceless Retroflex Fricative",
+    "audio_file": "VL_retroflex_fricative.mp3",
+    "image": "VL_retroflex_fricative.png"
+  },
+  {
+    "formatted_name": "Voiceless Retroflex Plosive",
+    "audio_file": "VL_retroflex_plosive.mp3",
+    "image": "VL_retroflex_plosive.png"
+  },
+  {
+    "formatted_name": "Voiceless Uvular Fricative",
+    "audio_file": "VL_uvular_fricative.mp3",
+    "image": "VL_uvular_fricative.png"
+  },
+  {
+    "formatted_name": "Voiceless Uvular Plosive",
+    "audio_file": "VL_uvular_plosive.mp3",
+    "image": "VL_uvular_plosive.png"
+  },
+  {
+    "formatted_name": "Voiceless Velar Ejective",
+    "audio_file": "VL_velar_ejective.mp3",
+    "image": "VL_velar_ejective.png"
+  },
+  {
+    "formatted_name": "Voiceless Velar Fricative",
+    "audio_file": "VL_velar_fricative.mp3",
+    "image": "VL_velar_fricative.png"
+  },
+  {
+    "formatted_name": "Voiceless Velar Plosive",
+    "audio_file": "VL_velar_plosive.mp3",
+    "image": "VL_velar_plosive.png"
+  }
+]

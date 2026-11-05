@@ -1,0 +1,81 @@
+* {
+    font-family: "Fredoka", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+}
+
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.flex-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.flex-gap {
+    gap: 1em;
+}
+.flex-gap-sm {
+    gap: 0.5em;
+}
+
+#result-box-name {
+    height: 5vh;
+    width: fit-content;
+    border: 0.1em solid black;
+    border-radius: 0.5rem;
+    padding-inline: 1em;
+    background-color: aliceblue;
+    min-width: 20rem;
+}
+
+button {
+    border: 0.1em solid black;
+    border-radius: 0.5rem;
+    background-color: white;
+    font-size: 1.5rem;
+}
+p {
+    font-size: 1.5rem;
+}
+
+button.red {
+    background-color: lightcoral;
+}
+button.green {
+    background-color: lightgreen;
+}
+
+.hide {
+    display: none;
+}
+
+#result-box-img {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    height: 5vh;
+    width: auto;
+    aspect-ratio: 1;
+
+    border: 0.1em solid black;
+    border-radius: 0.5rem;
+
+    > #result-img {
+        height: 100%;
+        width: auto;
+        z-index: -1;
+    }
+}
