@@ -135,7 +135,7 @@ async function fetchSuccessSoundEffects() {
 
     let soundEffects = []
 
-    for (sfx of json) {
+    for (let sfx of json) {
         const path = "success_sound_effects/" + sfx.path;
         const audioResponse = await fetch(path);
         if (!audioResponse.ok) {
@@ -166,7 +166,7 @@ async function fetchFailureSoundEffects() {
 
     let soundEffects = []
 
-    for (sfx of json) {
+    for (let sfx of json) {
         const path = "failure_sound_effects/" + sfx.path;
         const audioResponse = await fetch(path);
         if (!audioResponse.ok) {
@@ -198,14 +198,14 @@ function randfRange(min, max) {
 function randomWeighted(options) {
     let totalWeight = 0
 
-    for (opt of options) {
+    for (let opt of options) {
         totalWeight += opt.weight
     }
 
     let chosenWeight = randfRange(0, totalWeight)
 
     let acc = 0.0;
-    for (opt of options) {
+    for (let opt of options) {
         acc += opt.weight
 
         if (acc >= chosenWeight) {
