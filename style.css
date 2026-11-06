@@ -35,6 +35,7 @@ html, body {
 
 #result-box-name {
     height: 5vh;
+    min-height: 4ch;
     width: fit-content;
     border: 0.1em solid black;
     border-radius: 0.5rem;
@@ -54,6 +55,7 @@ button {
     border: 0.1em solid black;
     border-radius: 0.5rem;
     background-color: var(--color);
+    color: black;
     font-size: 1.5rem;
     margin-bottom: var(--button-height);
     box-shadow: 0 var(--button-height) 0 rgba(0, 0, 0, 1);
@@ -88,7 +90,7 @@ button.green {
     justify-content: center;
 
     height: 5vh;
-    width: auto;
+    min-height: 3rem;
     aspect-ratio: 1;
 
     border: 0.1em solid black;
